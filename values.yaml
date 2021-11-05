@@ -4,7 +4,7 @@
 ## activationCode is the product activation code.
 ##
 ## Default value: (none)
-activationCode: DK-6C5U-PGH2J-RPNBY-JMNQU-VNBPK-KP9FD
+activationCode: 20Usfq84UEv7Avg1GBCmEtIUtXb
 
 ## extraLabels is a dictionary of additional labels that will be added to all resources
 ## created by this chart.

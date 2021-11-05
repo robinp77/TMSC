@@ -4,7 +4,7 @@
 ## activationCode is the product activation code.
 ##
 ## Default value: (none)
-activationCode: 20Usfq84UEv7Avg1GBCmEtIUtXb
+activationCode: 
 
 ## extraLabels is a dictionary of additional labels that will be added to all resources
 ## created by this chart.
@@ -738,7 +738,7 @@ cloudOne:
   ## apiKey is the api key used to authenticate with Cloud One Container Security.
   ##
   ## Default value: (none)
-  apiKey: 1nbRVlDuJXJiV125Rur5VpnnyRg
+  apiKey: 20Usfq84UEv7Avg1GBCmEtIUtXb
 
   ## endpoint is the endpoint of the Cloud One Container Security scan results ingestion service.
   ## Allows for full endpoint to be provided or the Cloud One region (ex: us-1).

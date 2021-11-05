@@ -94,7 +94,7 @@ auth:
   ## Deep Security Smart Check has different passwords.
   ##
   ## Default value: {must be provided by the installer}
-  secretSeed:trendmicro
+  secretSeed: trendmicro
 
   saml:
     ## enabled controls whether SAML authentication will be enabled.
